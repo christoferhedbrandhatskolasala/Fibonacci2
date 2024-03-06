@@ -11,10 +11,10 @@ namespace Fibonacci2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int prevPrevNumber = 0;
+            int prevPrevNumber = 0; // tjoho
             int prevNumber = 1;
 
-            // hej christofer
+
             textBox3.Text = "0 1 ";
 
             for (int i = 0; i < 30; i++)
