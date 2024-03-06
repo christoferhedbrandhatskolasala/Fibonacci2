@@ -14,6 +14,7 @@ namespace Fibonacci2
             int prevPrevNumber = 0;
             int prevNumber = 1;
 
+            // hej christofer
             textBox3.Text = "0 1 ";
 
             for (int i = 0; i < 30; i++)
